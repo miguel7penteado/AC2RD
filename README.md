@@ -2,15 +2,15 @@
 - [![Codacy Badge](https://api.codacy.com/project/badge/Grade/89385025d232483e972af30d7e1600a5)](https://app.codacy.com/app/vassela/AC2RD?utm_source=github.com&utm_medium=referral&utm_content=vassela/AC2RD&utm_campaign=Badge_Grade_Dashboard)
 - [![API](https://img.shields.io/badge/API-9%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=9)
 - [![target API](https://img.shields.io/badge/target%20API-24-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
-- [![language](https://img.shields.io/badge/language-java-blue.svg?style=flat)](https://www.java.com)
-- [![JDK](https://img.shields.io/badge/JDK-1.7%2B-blue.svg?style=flat)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [![Linguagem usada](https://img.shields.io/badge/language-java-blue.svg?style=flat)](https://www.java.com)
+- [![Versão da máquina virtual, vulgo JDK](https://img.shields.io/badge/JDK-1.7%2B-blue.svg?style=flat)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [![android.support.v4](https://img.shields.io/badge/android.support-v4.app-blue.svg?style=flat)](https://developer.android.com/reference/android/support/v4/app/package-summary)
 - [![android.support.v7](https://img.shields.io/badge/android.support-v7.appcompat-blue.svg?style=flat)](https://developer.android.com/reference/android/support/v7/appcompat/package-summary)
-- [![license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0)
-- [![download](https://img.shields.io/badge/download-latest-blue.svg?style=flat)](https://github.com/vassela/AC2RD/blob/master/bin/AC2RD.apk)
-- [![download](https://img.shields.io/badge/wiki-user%20manual-blueviolet.svg?style=flat)](https://github.com/vassela/AC2RD/wiki/User-manual)
-- [![download](https://img.shields.io/badge/wiki-developer%20guide-blueviolet.svg?style=flat)](https://github.com/vassela/AC2RD/wiki/Developer-guide)
-- [![maitained](https://img.shields.io/badge/maitained-no%20(as%20of%202018)-red.svg?style=flat)](https://github.com/vassela/AC2RD)
+- [![licença](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0)
+- [![Baixar o apk](https://img.shields.io/badge/download-latest-blue.svg?style=flat)](https://github.com/miguel7penteado/AC2RD/blob/master/bin/AC2RD.apk)
+- [![Manual do Usuário](https://img.shields.io/badge/wiki-user%20manual-blueviolet.svg?style=flat)](https://github.com/miguel7penteado/AC2RD/wiki/User-manual)
+- [![Guia do Desenvolvedor](https://img.shields.io/badge/wiki-developer%20guide-blueviolet.svg?style=flat)](https://github.com/miguel7penteado/AC2RD/wiki/Developer-guide)
+- [![Mantido em](https://img.shields.io/badge/maitained-no%20(as%20of%202018)-red.svg?style=flat)](https://github.com/miguel7penteado/AC2RD)
 
 AC2RD (Android Call Recorder Replayer Dictaphone) é um software gratuito de gravação automática de chamadas telefônicas desenvolvido para o sistema operacional móvel Android, incluindo a funcionalidade de replayer e de ditafone.
 
